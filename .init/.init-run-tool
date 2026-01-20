@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/mood-tracker-and-journal-201681-201690/mood_tracker_frontend"
+}
